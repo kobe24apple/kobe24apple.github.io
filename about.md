@@ -9,7 +9,6 @@ title: 关于我
 <p>
 了解一些 前端 基本概念和 Python 的简单用法。
 
-{% include comments.html %}
 
 
 
